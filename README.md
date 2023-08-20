@@ -1,11 +1,14 @@
 ## Hello!! I'm Eduardo Cabral 
 
-<div align="center">
-  <a href="https://github.com/eduardocabral941">
-  <img height="48%" src="https://github-readme-stats.vercel.app/api?username=eduardocabral941&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-  <img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocabral941&layout=compact&langs_count=7&theme=vue"/>
-</div>
-  
+<table>
+  <tr>
+    <th> <a href="https://github.com/eduardocabral941/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardocabral941&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="eduardocabral941's github stats" /></a> </th>
+    <th> <a href="https://github.com/eduardocabral941/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocabral941&layout=compact&theme=buefy&hide_border=true" /></a> </th>
+  </tr> 
+</table>
+
+ ## 
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="edu-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img align="center" alt="edu-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
@@ -25,3 +28,7 @@
  <a href="https://t.me/eduardocabral941" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
     
 </div>
+
+
+
+
