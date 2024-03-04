@@ -1,30 +1,6 @@
-## Hello!! I'm Eduardo Cabral 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=660066&height=120&section=header"/>
 
-<table>
-  <tr>
-    <th> <a href="https://github.com/eduardocabral941/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardocabral941&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="eduardocabral941's github stats" /></a> </th>
-    <th> <a href="https://github.com/eduardocabral941/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocabral941&layout=compact&theme=buefy&hide_border=true" /></a> </th>
-  </tr> 
-</table>
-
- ## 
- 
-<div style="display: inline_block"><br>
-  <img align="center" alt="edu-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-  <img align="center" alt="edu-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-  <img align="center" alt="edu-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="edu-boost" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
-  <img align="center" alt="edu-oracle" height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
-</div>  
-  
-  ##
-  
-  <div> 
- <a href = "mailto:contato"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/eduardo-cabral941/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-     
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=660066&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Eduardo+;Be+Welcome!+%F0%9F%98%86)](https://git.io/typing-svg)
 
 
-
-
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ecabral0&bg_color=rgba(255,255,255,0.5)&color=333333&line=00bcd4&point=ff9800&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
